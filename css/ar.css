@@ -1,0 +1,16 @@
+body{
+  /*font-weight: 900;*/
+}
+.center{
+  text-align: center;
+}
+.ar-nav a {
+  display: block;
+  position: relative;
+  color: #004289;
+  padding: 10px 15px;
+  transition: 0.3s;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
